@@ -9,11 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		System.out.println("1234");
-=======
 		System.out.println("123456");
->>>>>>> refs/heads/dev
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
